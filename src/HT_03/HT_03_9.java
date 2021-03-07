@@ -1,6 +1,6 @@
-package ht_03;
+package HT_03;
 
-public class exercise9 {
+public class HT_03_9 {
     /*
     9 Рассмотрите следующий фрагмент кода.
 if (aNumber >= 0)

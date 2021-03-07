@@ -1,8 +1,8 @@
-package ht_03;
+package HT_03;
 
 import java.util.Scanner;
 
-public class exercise4 {
+public class HT_03_4 {
     /*
 4. Вам дано трехзначное целое число (то есть целое число от 100 до 999). Найдите сумму его
 цифр.

@@ -1,6 +1,6 @@
-package ht_03;
+package HT_03;
 
-public class exercise7 {
+public class HT_03_7 {
     /*
    Измените следующую программу, чтобы использовать составные присвоения:
 class ArithmeticDemo {

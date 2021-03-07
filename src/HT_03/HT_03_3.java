@@ -1,8 +1,8 @@
-package ht_03;
+package HT_03;
 
 import java.util.Scanner;
 
-public class exercise3 {
+public class HT_03_3 {
     /*
         3. Вам дается двузначное число. Выведите его первую цифру (то есть количество десятков).
          */

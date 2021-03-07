@@ -1,8 +1,8 @@
-package ht_03;
+package HT_03;
 
 import java.util.Scanner;
 
-public class exercise1 {
+public class HT_03_1 {
     /*
     1. Вычисляет следующее выражение: 100 - (2 * (n + 3) * n - 7) * n + 3,где. n - натуральное число,
       вводится из консоли

@@ -1,6 +1,6 @@
-package ht_03;
+package HT_03;
 
-public class exercise9_4 {
+public class HT_03_9_4 {
     /*
     4. Используйте фигурные скобки, {и}, чтобы далее разъяснить код.
      */

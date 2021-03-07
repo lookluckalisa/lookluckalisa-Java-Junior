@@ -1,6 +1,6 @@
-package ht_03;
+package HT_03;
 
-public class exercise8 {
+public class HT_03_8 {
     /*
     8 В следующей программе объясните, почему значение "6" печатается дважды подряд:
 class PrePostDemo {
