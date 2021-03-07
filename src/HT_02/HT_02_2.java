@@ -1,6 +1,6 @@
-package ht_02;
+package HT_02;
 
-public class exercise_2 {
+public class HT_02_2 {
     /*
     2 Исправить код, чтобы программа вывела IT College! .
     public class Main {
