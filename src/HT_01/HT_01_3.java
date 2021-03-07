@@ -1,6 +1,6 @@
-package ht_01;
+package HT_01;
 
-public class exercise3 {
+public class HT_01_3 {
     /*
     3 Исправите код, чтобы вывелось "Yet another simple Java application".
 public class Main {

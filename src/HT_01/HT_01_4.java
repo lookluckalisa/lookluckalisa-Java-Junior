@@ -1,6 +1,6 @@
-package ht_01;
+package HT_01;
 
-public class exercise4 {
+public class HT_01_4 {
     /**
      * It prints the text "It works correctly" to the standard output
      */

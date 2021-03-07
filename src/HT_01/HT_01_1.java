@@ -1,6 +1,6 @@
-package ht_01;
+package HT_01;
 
-public class exercise1 {
+public class HT_01_1 {
     /*
     1 Расставить комментарии, что приложение запустилось.
 public class Main {
